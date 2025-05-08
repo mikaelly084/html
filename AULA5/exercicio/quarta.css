@@ -1,0 +1,14 @@
+.container{
+
+    color: #fefffe;
+    background-color: rgb(7, 187, 7);
+    padding: 15px;
+    border-radius: 5px;
+    margin: 15px;
+  }
+ 
+p {
+  background-color: rgba(5, 107, 5, 0.26);
+  padding:10px  ;
+}
+ 

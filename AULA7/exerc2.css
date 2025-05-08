@@ -1,0 +1,24 @@
+
+
+.container {
+    background-color: rgb(78, 78, 83);
+    border: 8px solid rgb(87, 57, 2);
+    
+   
+ }
+ .imagem{
+     float: left;
+     margin-right: 20px;
+     width: 770px;
+     position: relative;
+     top: -16px;
+    
+    }
+
+ .texto{
+     font-size: 26
+     px;
+     line-height: 1,5;
+     margin-left: 20px;
+    
+ }

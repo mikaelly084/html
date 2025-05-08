@@ -1,0 +1,65 @@
+
+body {
+   margin: 0;
+   font-family: sans-serif;
+   background: #3e015a;
+   display: flex;
+   justify-content: center;
+   padding: 50px 10px;
+ }
+
+ .container {
+   background: #f3f4f6;
+   padding: 30px;
+   border-radius: 10px;
+   display: flex;
+   gap: 100px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   max-width: 1000px;
+   height: 800px;
+ }
+
+ .perfil {
+   display: flex;
+   gap: 20px;
+ }
+
+ .perfil img {
+   height: 120px;
+   border-radius: 50%;
+ }
+
+ .info h1 { font-size: 24px; }
+ .info h2, .info p { font-size: 14px; color: #555; }
+
+ .links a {
+   margin-right: 10px;
+   color: #0073b1;
+   text-decoration: none;
+ }
+ .box{
+   height: 700px ;
+   width: 100;
+   border-radius: 5px;
+ }
+
+ .box ul {
+   padding-left: 20px;
+   margin: 0;
+   list-style-type: none;
+ }
+ .box{
+   background: #f3f4f6;
+   box-shadow: 0 0 10px  #3e015a;;
+
+ }
+ .box, .projetos {
+   margin-top: 50px;
+ }
+ .box ,.projetos, .ul{
+   list-style-type: none;
+ }
+ .box, h3{
+   padding-left: 20px;
+   padding-top: 20px;
+ }
